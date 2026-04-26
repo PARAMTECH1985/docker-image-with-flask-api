@@ -1,0 +1,11 @@
+# Specific version (recommended for stability)
+Flask==3.0.3
+
+# Minimum version
+requests>=2.28.1
+
+# Version range
+pandas>=1.5.0,<2.0.0
+
+# Latest available version (not recommended for production)
+numpy
